@@ -68,7 +68,7 @@ class HomePage extends Component {
         <Container fluid className="px-4">
           <div className="d-flex justify-content-between">
             <div className="d-flex">
-              <h2 className="mb-4">Movies</h2>
+              <h2 className="mb-4 text-light">Movies</h2>
               <div className="me-4 mt-1">
                 <Dropdown>
                   <Dropdown.Toggle
